@@ -1,3 +1,26 @@
+<h4 align="left">Hi there...👋🏻, Let's make our Digital world a Safe Place....</h4>
+
+###
+
+<img align="right" height="160" src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif"/>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@Mr.awaara_4u?si=h2LtSgsYiWw4ushH) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharat-vegi/)  
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) it's Important to remember that using these tools alone doesn't guarantee Security, so i Create my own if Needed.
+
+![](https://github-readme-stats.vercel.app/api?username=Asxp2628&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asxp2628&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asxp2628&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+### Tech Meme's 
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Asxp2628&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
 Since the Beginning of my teenage years, everything started with a Fascination for Hacking. that Passion has evolved into my Profession as a SOC Analyst.
 
 I Like to Break things apart, learn how they work, and find ways to circumvent their Defenses. I Solve problems by thinking out of the box, sometimes creating my own tools using Ai. In free time I Love to Social Engineer and Find Classified information like 008...Haha 
