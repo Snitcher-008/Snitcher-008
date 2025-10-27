@@ -1,18 +1,10 @@
-# Hello, I'm Ricky
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Since the Beginning of my teenage years, everything started with a Fascination for Hacking. that Passion has evolved into my Profession as a SOC Analyst.
 
-[Brief Introduction - Remove this afterwards]
+I Like to Break things apart, learn how they work, and find ways to circumvent their Defenses. I Solve problems by thinking out of the box, sometimes creating my own tools using Ai. In free time I Love to Social Engineer and Find Classified information like 008...Haha 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Open for Connections & Nice to meet you.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
+# Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Detection Lab          | <a href="https://github.com/Snitcher-008/Detection-Lab">Detection Lab</a>|
